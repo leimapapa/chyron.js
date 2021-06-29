@@ -16,7 +16,7 @@ const chyron = (function () {
 			bottom: 0;
 			left: 50%;
 			transform:translate(-50%);
-			width: 100%;
+			width: 100vw;
 			overflow: hidden;
 			height: 4rem;
 			background-color: rgba(0, 0, 0, 0.9);
