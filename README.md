@@ -1,6 +1,10 @@
 # chyron.js
 Creates a chyron on your HTML page
 
+## CDN
+
+https://cdn.jsdelivr.net/gh/leimapapa/chyron.js/chyron.min.js
+
 ## Example
 
 https://codepen.io/leimapapa/pen/xxdbOGK
